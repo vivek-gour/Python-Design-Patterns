@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*~
+*.sqlite
+*.swp
+*.bak
+*.log
+nohup.out
+*.pid
+.idea
+*.conf
