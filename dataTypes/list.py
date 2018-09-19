@@ -2,7 +2,7 @@ __author__ = 'Vivek Gour'
 __copyright__ = 'Copyright 2018, Vivek Gour'
 __version__ = '1.0.0'
 __maintainer__ = 'Vivek Gour'
-__email__ = 'Viv30ek@searce.com'
+__email__ = 'Viv30ek@gmail.com'
 __status__ = 'Learning'
 
 """
@@ -30,15 +30,18 @@ min()	Return the smallest item in the list
 sorted()	Return a new sorted list (does not sort the list itself).
 sum()	Return the sum of all elements in the list.
 
+Lists are allocated in two blocks: the fixed one with all the Python object information and a variable sized block for
+the data. It is the reason creating a tuple is faster than List. It also explains the slight difference in indexing 
+speed is faster than lists, because in tuples for indexing it follows fewer pointers.
 """
-
-
 
 # revers string using slicing
 a = [1, 2, 3, 4]
-print a[::-1]
+print(a[::-1])
+print(a[::-2])
+print(a[::0])  # ValueError: slice step cannot be zero
 
 # list Comprehension
 
 pow2 = [2 ** x for x in range(10)]
-print pow2
+print(pow2)
