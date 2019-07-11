@@ -25,7 +25,7 @@ class Test(object):
         self.b = 'b'
 
     def __getattr__(self, name):
-        return 123456
+        return "%s method not defined but exception handled" % name
 
 
 t = Test()

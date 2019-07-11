@@ -39,8 +39,8 @@ speed is faster than lists, because in tuples for indexing it follows fewer poin
 a = [1, 2, 3, 4]
 print(a[::-1])
 print(a[::-2])
-print(a[::0])  # ValueError: slice step cannot be zero
-
+# print(a[::0])  # ValueError: slice step cannot be zero
+print(a[0::])
 # list Comprehension
 
 pow2 = [2 ** x for x in range(10)]
