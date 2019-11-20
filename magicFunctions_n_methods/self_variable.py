@@ -73,19 +73,28 @@ When defining an instance method, the first parameter of the method should alway
 is discussed in the next section (which is the main aim of this post). However one can name it anything other than self,
 but what that parameter represents will always be the same. And its a good idea for sticking with self as its the
 convention.
+"""
+
 
 class SomeClass:
-    def create_arr(self): # An instance method
+    def create_arr(self):  # An instance method
         self.arr = []
 
-    def insert_to_arr(self, value):  #An instance method
+    def insert_to_arr(self, value):  # An instance method
         self.arr.append(value)
-We can instantiate above class as obj3, and do some investigations as follows:
+
+
+"""
+We can instantiate above
+class as obj3, and do some investigations as follows:
+"""
 
 obj3 = SomeClass()
 obj3.create_arr()
 obj3.insert_to_arr(5)
 obj3.arr
+
+"""
 [5]
 So as you can notice from above, although when defining an instance method the first parameter is self, when calling
 that method, we do not pass anything for self as arguments. How come this does not give errors? Whats going on behind
@@ -94,17 +103,22 @@ the scene? These are explained in the next section.
 Ok, with instance methods explained, all we have left is class methods (so I say). Just like instance methods, in
 class methods also there is a special parameter that should be placed as the first parameter. It is the cls parameter,
 which represents the class:
+"""
+
 
 class SomeClass:
-    def create_arr(self): # An instance method
+    def create_arr(self):  # An instance method
         self.arr = []
 
-    def insert_to_arr(self, value):  #An instance method
+    def insert_to_arr(self, value):  # An instance method
         self.arr.append(value)
 
     @classmethod
     def class_method(cls):
         print("the class method was called")
+
+
+"""
 Without even instantiating an object, we can access class methods as follows:
 
 SomeClass.class_method()
@@ -119,13 +133,13 @@ Now with all things are being reminded (instance/class variables and methods), l
 in python (-finally).
 """
 """
-self _intuition 
-Some of you may have got it by now, or some may have got it partially, anyway, the self in python 
+self _intuition
+Some of you may have got it by now, or some may have got it partially, anyway, the self in python
 represents or points the instance which it was called. Lets clarify this with an example
 """
 
 
-class SomeClass:
+class SomeClass():
     def __init__(self):
         self.arr = []
         # All SomeClass objects will have an array arr by default
@@ -143,7 +157,7 @@ obj1.insert_to_arr(6)
 """
 Important: Unlike some other languages, when a new object is created in python, it does not create a new set
 of instance methods to itself. So instance methods lie within the class object without being created with each
-object initialization — nice way to save up memory. Recall that python is a fully object oriented language and
+object initialization nice way to save up memory. Recall that python is a fully object oriented language and
 so a class is also an object. So it lives within the memory.
 Being said that, lets look at above example. There we have created obj1 and are calling the instance method
 insert_to_arr() of SomeClass while passing an argument 6. But now how does that method know "which object is
@@ -154,5 +168,5 @@ calling of instance method to something like below:
 
 SomeClass.inseart_to_arr(obj1, 6)
 Now you know why you should always use self as the first parameter of instance methods in python and what really
-happens behind the scene when we call a instance method. --Happy Coding!!
+happens behind the scene when we call a instance method. --Happy Coding!!
 """

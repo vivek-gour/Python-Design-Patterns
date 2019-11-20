@@ -71,3 +71,27 @@ We generally use class method to create factory methods. Factory methods return 
 ( similar to a constructor ) for different use cases.
 We generally use static methods to create utility functions.
 """
+
+from datetime import datetime
+
+
+class age(object):
+
+    def __init__(self, year, name):
+        self.year = year
+        self.name = name
+
+    @classmethod
+    def getAgeWithDob(cls, dob, name):
+        year = datetime.strptime(dob, '%d-%m-%Y').year
+        return cls(year, name)
+
+    def printAge(self):
+        age = datetime.now().year - self.year
+        print("%s age is %s" % (age, self.name))
+
+
+obj = age(1985, 'Vivek')
+obj.printAge()
+obj1 = age.getAgeWithDob('30-01-1985', 'Gour')
+obj1.printAge()

@@ -44,11 +44,11 @@ print hasattr(t, 'x')
 
 # __getattribute__
 class test(object):
-    def __getattribute__(self, item):
-        print("This Func name not defined %s" % item)
-
     def myfunc(self):
         print('myfunc')
+
+    def __getattribute__(self, item):
+        print("This Func name not defined %s" % item)
 
 
 c = test()

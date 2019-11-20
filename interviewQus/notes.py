@@ -14,3 +14,10 @@ __status__ = 'Learning'
 
 
 """
+
+a = "viv ek g o u r"
+print a.split(None, 2)
+# print a.split('')
+
+if not False:
+    print "=="
