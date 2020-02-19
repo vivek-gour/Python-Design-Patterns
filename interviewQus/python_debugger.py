@@ -1,14 +1,14 @@
 import pdb
 
 
-def myfunc():
+def myfunc(a, b):
     pdb.set_trace()
     print("my func")
     print("my func")
     print("my func")
 
 
-myfunc()
+myfunc(1, 2)
 
 """
 

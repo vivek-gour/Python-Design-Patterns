@@ -7,7 +7,7 @@ __status__ = 'Learning'
 
 
 try:
-    "some code"
+    print "some code"
 except NameError:
     print("error in name")
 except Exception as e:
