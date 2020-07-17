@@ -14,7 +14,7 @@ def deco(func):
     def inner(*args, **kwargs):
         print("1")
         func(*args, **kwargs)
-
+        print("2")
     return inner
 
 
