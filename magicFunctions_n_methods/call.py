@@ -15,6 +15,9 @@ class Test(object):
         print kwargs
         print '-' * 80
 
+    def __init__(self):
+        print "vivek"
+
 
 t = Test()
 Test()(1, 2, 3)

@@ -6,7 +6,7 @@
 # >>> b == a
 # True
 
-# Make a new copy of list `a` via the slice operator,
+# Make a new copy of list `a` via the slice operators,
 # and assign it to variable `b`
 # >>> b = a[:]
 # >>> b is a

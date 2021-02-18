@@ -83,8 +83,8 @@ feature:
 
 17. Class - Multiple and Multi level
 
-18. Operator overloading This feature in Python, that allows same operator to have different meaning according to the
-context is called operator overloading
+18. Operator overloading This feature in Python, that allows same operators to have different meaning according to the
+context is called operators overloading
 class Point:
     def __init__(self, x = 0, y = 0):
         self.x = x

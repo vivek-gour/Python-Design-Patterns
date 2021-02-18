@@ -9,5 +9,18 @@ __status__ = 'Learning'
 def decorator(func):
     def method(*args, **kwargs):
         # do something
-        return func(*args, **kwargs)
+        # print("#########################")
+        return func(*args, **kwargs)  # if dont return func so it will execute below line
+        # print("#########################")
+
     return method
+
+
+@decorator
+def printVivek():
+    print('vivek')
+
+
+printVivek()
+
+o = printVivek()
