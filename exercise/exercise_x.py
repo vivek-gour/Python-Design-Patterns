@@ -13,3 +13,6 @@ path = "D:/Users/vgour/PycharmProjects/python3_work/my_daggen/workflows/MyDAG_1/
 
 config.read(path)
 print(config.sections(), config.items('default'))
+
+print({} == {**{}}) # True
+print(set() == {*{}}) # True
