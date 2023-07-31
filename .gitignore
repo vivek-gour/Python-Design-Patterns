@@ -9,3 +9,5 @@ nohup.out
 *.pid
 .idea
 *.conf
+/CELPIP/build/
+/CELPIP/dist/

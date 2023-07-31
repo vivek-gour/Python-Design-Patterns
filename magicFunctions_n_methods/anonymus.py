@@ -9,4 +9,4 @@ __status__ = 'Learning'
 
 a = lambda x: x * x
 
-print a(2)
+print(a(2))

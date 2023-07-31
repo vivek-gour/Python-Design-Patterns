@@ -50,7 +50,8 @@ T.insert(END, "Enter_final_file_name_here")
 
 var = StringVar()
 label = Label(root, textvariable=var)
-var.set("* with same name old file will get replaced\n*final file will be saved in same folder as per selected file")
+var.set("* with same name old file will get replaced\n"
+        "*final file will be saved in same folder as per first selected file")
 label.place(relx=1, x=1, y=30, anchor=NE)
 
 addselectfile()
