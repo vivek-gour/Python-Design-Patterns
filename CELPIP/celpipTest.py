@@ -1,16 +1,17 @@
+import json
+import os
+import random
+import sys
+import time
 import tkinter.ttk
+from datetime import datetime
+from tkinter import *
+from tkinter import PhotoImage
 
+import pyttsx3
 import sounddevice as sd
 import soundfile as sf
-from tkinter import *
-import json
-import random
-import time
-from datetime import datetime
-import os
-from tkinter import PhotoImage
 import speech_recognition as sr
-import pyttsx3
 
 
 def getJson():
@@ -244,25 +245,42 @@ def createFolders():
         pass
 
 
+def callMainAgain():
+    os.execv(sys.executable, ['python'] + sys.argv)
+
+
 def on_click():
     createFolders()
     options = [var1.get(), var2.get(), var3.get(), var4.get()]
-    print(options)
+    # print(var1.get(), '--', var2.get(), '--', var3.get(), '--', var4.get())
     c1.destroy()
     c2.destroy()
     c3.destroy()
     c4.destroy()
 
-    for title in jData.keys():
-        if title in options:
-            eval('designFor%s()' % title)
+    if var3.get() == 'ReadingTask' or var4.get() == 'ListeningTask':
+        L.set('Module is still in development.\nYou can exit and start again for\nother modules')
+        LL.place(x=55, y=60)
+        ST.destroy()
+        # BB.place(x=80, y=150)
+        master.update()
+    else:
+        for title in jData.keys():
+            if title in options:
+                eval('designFor%s()' % title)
+        else:
+            L.set('No Module was selected.\nYou can exit and start again for\nother modules')
+            LL.place(x=55, y=60)
+            ST.destroy()
+            # BB.place(x=80, y=150)
+            master.update()
 
 
 if __name__ == "__main__":
     master = Tk()
     master.title("CELPIP Test")
     master.geometry("300x300")
-    master.resizable(False, False)
+    # master.resizable(False, False)
     jData = getJson()
     sec1 = StringVar()
     sec2 = StringVar()
@@ -270,8 +288,10 @@ if __name__ == "__main__":
     Q = StringVar()
     WW = StringVar()
     T = StringVar()
+    L = StringVar()
     ss = StringVar()
     ff = StringVar()
+    bb = StringVar()
     var = IntVar()
     timer = StringVar()
 
@@ -295,6 +315,7 @@ if __name__ == "__main__":
     RT = Label(master, textvariable=timer, font='Helvetica14')
     RTE = Entry(master, textvariable=sec2, width=2, font='Helvetica14')
 
+    LL = Label(master, textvariable=L, font='Helvetica14', justify=LEFT)
     Label(master, textvariable=Q, font='Helvetica14', justify=LEFT).place(x=50, y=90)
     Label(master, textvariable=T, font='Helvetica14', justify=LEFT).place(x=50, y=30)
     WC = Label(master, textvariable=WW, font='Helvetica14', justify=LEFT)
@@ -306,6 +327,8 @@ if __name__ == "__main__":
     ff.set("Exit Test")
     ST.place(x=80, y=150)
     FT.place(x=80, y=200)
+    # BB = Button(master, textvariable=bb, command=callMainAgain, width=20)
+    # bb.set("Back to Test")
 
     can = Canvas(master, width=300, height=50)
     can.place(x=1, y=240)
@@ -319,7 +342,7 @@ if __name__ == "__main__":
     rad1 = Radiobutton(master, text="Option 1", variable=var, value=1)
     rad2 = Radiobutton(master, text="Option 2", variable=var, value=2)
 
-    c1 = Checkbutton(master, text='WritingTask', variable=var1, onvalue='WritingTask', offvalue='')
+    c1 = Checkbutton(master, text='WritingTask', variable=var1, onvalue='WritingTask', offvalue='', state="active")
     c1.place(x=80, y=10)
     c2 = Checkbutton(master, text='SpeakingTask', variable=var2, onvalue='SpeakingTask', offvalue='')
     c2.place(x=80, y=40)

@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['speaking.py'],
+    ['celpipTest.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -30,7 +30,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='CELPIP-Speaking',
+    name='CELPIP-Test',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

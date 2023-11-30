@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Merger</title>
+</head>
+<body>
+    <h1>PDF Merger</h1>
+
+    {% if message %}
+        <p style="color: green;">{{ message }}</p>
+        {% if merged_file %}
+            <p>Merged file:</p>
+            <p><a href="{{ merged_file }}" target="_blank">{{ merged_file }}</a></p>
+        {% endif %}
+    {% endif %}
+
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="files" multiple>
+        <button type="submit">Merge PDFs</button>
+    </form>
+</body>
+</html>

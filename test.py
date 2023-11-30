@@ -127,6 +127,52 @@ Sincerely,
 Vivek
 """
 
-count = text.split(' ')
-print(count)
-print(len(count))
+
+# count = text.split(' ')
+# print(count)
+# print(len(count))
+# import random
+#
+# num_list = ['11', '9', '10', '12', '4', '0', '3', '5', '9', '2', '8', '5', '6', '11', '6', '4', '8', '10', '3']
+# # print(num_list[1])
+# # random.shuffle(num_list)
+# rule_book = {0: [1, 3, 4],
+#              1: [2, 4, 5],
+#              2: [5, 6],
+#              3: [4, 7, 8],
+#              4: [5, 8, 9],
+#              5: [6, 9, 10],
+#              6: [10, 11],
+#              7: [8, 12],
+#              8: [9, 12, 13],
+#              9: [10, 13, 14],
+#              10: [11, 14, 15],
+#              11: [15],
+#              12: [15, 16],
+#              13: [14, 16, 17],
+#              14: [15, 17, 18],
+#              15: [18],
+#              16: [17],
+#              17: [18]
+#              }
+# safe_num_pos = []
+# not_safe_num = []
+# for key, val in rule_book.items():
+#     tempList = [num_list[v] for v in val]
+#     if num_list[key] in ['6', '8'] and ('6' in tempList or '8' in tempList):
+#         not_safe_num.append(key)
+#     else:
+#         safe_num_pos.append(key)
+# print(num_list, safe_num_pos, not_safe_num)
+
+def abc(x):
+    for z in range(10):
+        print('here')
+        if z == x:
+            return z
+    else:
+        print('There was no number that was matching to %d' % x)
+        return 'N/A'
+
+
+print(abc(15))
