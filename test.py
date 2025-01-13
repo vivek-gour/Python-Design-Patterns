@@ -127,7 +127,6 @@ Sincerely,
 Vivek
 """
 
-
 # count = text.split(' ')
 # print(count)
 # print(len(count))
@@ -165,14 +164,28 @@ Vivek
 #         safe_num_pos.append(key)
 # print(num_list, safe_num_pos, not_safe_num)
 
-def abc(x):
-    for z in range(10):
-        print('here')
-        if z == x:
-            return z
-    else:
-        print('There was no number that was matching to %d' % x)
-        return 'N/A'
+# def abc(x):
+#     for z in range(10):
+#         print('here')
+#         if z == x:
+#             return z
+#     else:
+#         print('There was no number that was matching to %d' % x)
+#         return 'N/A'
+#
+#
+# print(abc(15))
 
+# print('.com.in'.replace('.com', 'comdone').replace('.in', 'indone'))
 
-print(abc(15))
+# new_data = {'delivery_partner': '',
+#             'payout_period': '',
+#             'payout_on': '',
+#             'total_orders': '',
+#             'total_payout': '',
+#             'store_name': '',
+#             'location': '',
+#             'year': ''}
+# new_data['delivery_partner'] = 'vivek'
+
+print(range('A', 'D'))

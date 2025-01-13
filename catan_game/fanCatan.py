@@ -20,6 +20,7 @@ class myGame:
         self.go1_left = False
         self.go2_left = False
         self.go3_left = False
+        self.number_of_players = 3
 
     def draw_regular_polygon(self, surface, color, vertex_count, radius, position, width=0):
         n, r = vertex_count, radius
@@ -145,7 +146,7 @@ class myGame:
                 if event.type == pygame.QUIT:
                     pygame.quit()
                     sys.exit()
-            self.screen.fill("black")
+            self.screen.fill("cyan")
             # keys = pygame.key.get_pressed()
             # if keys[pygame.K_w]:
             #     self.hex_pos.y -= 30 * self.dt
@@ -160,44 +161,46 @@ class myGame:
             ltile_size = 0.2
             ntile_size = 0.2
             board_size = 1
-            board_loc = (150, 80)
+            board_loc = (970, 550)
+            # board_loc = (150, 80)
             port_loc = (135, 80)
 
             # board
-            self.load_draw_img('board/board', board_loc)
-            self.load_draw_img('trade/tradeport', port_loc, board_size)
-            self.load_draw_img('trade/port', port_loc, board_size * 2.456)
+            self.draw_regular_polygon(self.screen, 'white', 6, 420, board_loc)
+            # self.load_draw_img('board/board', board_loc)
+            # self.load_draw_img('trade/tradeport', port_loc, board_size)
+            # self.load_draw_img('trade/port', port_loc, board_size * 2.456)
 
             # player and their pieces
             for l, lp in zip(logo_list, logo_pos):
                 self.load_draw_img(f'logo/{l}', lp, ltile_size)
 
                 self.load_draw_img(f'pieces/H_{l}', (lp[0], lp[1] + 50), ltile_size)
-                self.load_draw_img(f'pieces/H_{l}', (lp[0] + 50, lp[1] + 50), ltile_size)
-                self.load_draw_img(f'pieces/H_{l}', (lp[0] + 100, lp[1] + 50), ltile_size)
-                self.load_draw_img(f'pieces/H_{l}', (lp[0] + 150, lp[1] + 50), ltile_size)
-                self.load_draw_img(f'pieces/H_{l}', (lp[0] + 200, lp[1] + 50), ltile_size)
+                # self.load_draw_img(f'pieces/H_{l}', (lp[0] + 50, lp[1] + 50), ltile_size)
+                # self.load_draw_img(f'pieces/H_{l}', (lp[0] + 100, lp[1] + 50), ltile_size)
+                # self.load_draw_img(f'pieces/H_{l}', (lp[0] + 150, lp[1] + 50), ltile_size)
+                # self.load_draw_img(f'pieces/H_{l}', (lp[0] + 200, lp[1] + 50), ltile_size)
 
                 self.load_draw_img(f'pieces/C_{l}', (lp[0], lp[1] + 100), ltile_size)
-                self.load_draw_img(f'pieces/C_{l}', (lp[0] + 50, lp[1] + 100), ltile_size)
-                self.load_draw_img(f'pieces/C_{l}', (lp[0] + 100, lp[1] + 100), ltile_size)
-                self.load_draw_img(f'pieces/C_{l}', (lp[0] + 150, lp[1] + 100), ltile_size)
+                # self.load_draw_img(f'pieces/C_{l}', (lp[0] + 50, lp[1] + 100), ltile_size)
+                # self.load_draw_img(f'pieces/C_{l}', (lp[0] + 100, lp[1] + 100), ltile_size)
+                # self.load_draw_img(f'pieces/C_{l}', (lp[0] + 150, lp[1] + 100), ltile_size)
 
                 self.load_draw_img(f'pieces/R_{l}', (lp[0] + 20, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 40, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 60, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 80, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 100, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 120, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 140, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 160, lp[1] + 130), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 20, lp[1] + 200), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 40, lp[1] + 200), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 60, lp[1] + 200), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 80, lp[1] + 200), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 100, lp[1] + 200), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 120, lp[1] + 200), ltile_size, 90)
-                self.load_draw_img(f'pieces/R_{l}', (lp[0] + 140, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 40, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 60, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 80, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 100, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 120, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 140, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 160, lp[1] + 130), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 20, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 40, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 60, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 80, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 100, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 120, lp[1] + 200), ltile_size, 90)
+                # self.load_draw_img(f'pieces/R_{l}', (lp[0] + 140, lp[1] + 200), ltile_size, 90)
 
             for r, rp, n in zip(res_list, res_pos, num_list):
                 self.load_draw_img(f'resource/{r}', rp, rtile_size)

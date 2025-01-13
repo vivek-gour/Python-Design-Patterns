@@ -10,7 +10,7 @@ from tensorflow.keras.optimizers import Adam
 import datetime
 
 # Define the stock symbol and date range
-stock_symbol = 'BBD.TO'
+stock_symbol = 'DCBO.TO'
 start_date = '2021-01-01'
 end_date = datetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d')
 

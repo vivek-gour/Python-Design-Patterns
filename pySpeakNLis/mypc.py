@@ -4,7 +4,7 @@ import webbrowser
 
 import datetime
 import pyttsx3  # pip install pyttsx3
-import speech_recog as sr  # pip install speechRecognition
+import speech_recognition as sr  # pip install speechRecognition
 import wikipedia  # pip install wikipedia
 
 engine = pyttsx3.init('sapi5')

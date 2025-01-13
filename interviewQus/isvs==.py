@@ -28,3 +28,36 @@
 # False
 # >>> "aa" is intern(x*2)
 # True
+
+# print(False == False == False)
+
+
+def func(pattern, string):
+    # Helper to check if a character is a vowel
+    def is_vowel(char):
+        return char in "aeiou"
+
+    # Convert the pattern to a list of boolean checks
+    pattern_check = [is_vowel if p == "0" else lambda c: not is_vowel(c) for p in pattern]
+    print(pattern_check)
+    pattern_length = len(pattern)
+    count = 0
+
+    # Slide over the string to check substrings
+    for i in range(len(string) - pattern_length + 1):
+        substring = string[i:i + pattern_length]
+        # Check if the substring matches the pattern
+        if all(check(substring[j]) for j, check in enumerate(pattern_check)):
+            count += 1
+
+    return count
+
+# Example usage:
+pattern = "010"
+string = "amazing"
+print(func(pattern, string))  # Output: 2
+
+
+
+
+

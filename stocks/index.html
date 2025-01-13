@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Browser Boxes</title>
+    <style>
+        body {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .browser-box {
+            width: 90%; /* Adjust as needed */
+            max-width: 400px; /* Maximum width for larger screens */
+            height: 50vh; /* Adjust as needed */
+            max-height: 400px; /* Maximum height for larger screens */
+            margin: 10px;
+            padding: 15px;
+            box-sizing: border-box;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input {
+            width: calc(100% - 10px);
+            margin-bottom: 10px;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+
+        iframe {
+            width: 100%;
+            height: calc(100% - 60px); /* Adjust the height as needed */
+            border: none;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div class="browser-box">
+    <label for="url1">Enter URL:</label>
+    <input type="text" id="url1" placeholder="https://www.example.com">
+    <button onclick="loadUrl('url1')">Load URL</button>
+    <iframe id="iframe1"></iframe>
+</div>
+
+<div class="browser-box">
+    <label for="url2">Enter URL:</label>
+    <input type="text" id="url2" placeholder="https://www.example.com">
+    <button onclick="loadUrl('url2')">Load URL</button>
+    <iframe id="iframe2"></iframe>
+</div>
+
+<div class="browser-box">
+    <label for="url3">Enter URL:</label>
+    <input type="text" id="url3" placeholder="https://www.example.com">
+    <button onclick="loadUrl('url3')">Load URL</button>
+    <iframe id="iframe3"></iframe>
+</div>
+
+<div class="browser-box">
+    <label for="url4">Enter URL:</label>
+    <input type="text" id="url4" placeholder="https://www.example.com">
+    <button onclick="loadUrl('url4')">Load URL</button>
+    <iframe id="iframe4"></iframe>
+</div>
+
+<script>
+    function loadUrl(inputId) {
+        var url = document.getElementById(inputId).value;
+        document.getElementById("iframe" + inputId.slice(-1)).src = url;
+    }
+</script>
+
+</body>
+</html>

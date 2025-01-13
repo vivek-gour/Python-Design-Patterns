@@ -7,4 +7,4 @@ __status__ = 'Learning'
 
 a = ["", 1, 0, True, False]
 
-print filter(None, a)
+print(filter(None, a))

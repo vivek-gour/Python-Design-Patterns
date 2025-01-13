@@ -1,0 +1,405 @@
+<div class="sc-6e9df86d-0 sc-ddce1be1-0 fNFqY eXLShw">
+    <div class="sc-6e9df86d-0 kIPYUa">
+        <h2 spacing="mb1,mt0" class="sc-3c9314e7-1 eAMlCg sc-2e95151-2 gAhdFG">Today</h2>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="5e331c74-5d1c-4e21-9daa-73496d372340-header"
+                        aria-controls="5e331c74-5d1c-4e21-9daa-73496d372340-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_SHOP.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">SHOP</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit buy</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">FHSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$12,969.00 CAD</p>
+                            <span class="sc-204449cf-0 sc-2a55aa6f-0 kXIyZE gTUkJk">Expired</span>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="3eeb2eec-4ad3-45cf-a477-750a0a30b670-header"
+                        aria-controls="3eeb2eec-4ad3-45cf-a477-750a0a30b670-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_WFG.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">WFG</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit sell</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">TFSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$17,171.00 CAD</p>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <h2 spacing="mb1,mt5" class="sc-3c9314e7-1 fxDntU sc-2e95151-2 jXYSXm">Yesterday</h2>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="b66ac852-a304-49c2-91ac-92a1040b4524-header"
+                        aria-controls="b66ac852-a304-49c2-91ac-92a1040b4524-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_DND.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">DND</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit buy</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">FHSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$12,969.00 CAD</p>
+                            <span class="sc-204449cf-0 sc-2a55aa6f-0 kXIyZE gTUkJk">Expired</span>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="9a548572-be49-49a3-abef-38daea81fa7f-header"
+                        aria-controls="9a548572-be49-49a3-abef-38daea81fa7f-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_WFG.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">WFG</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit sell</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">TFSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$17,032.40 CAD</p>
+                            <span class="sc-204449cf-0 sc-2a55aa6f-0 kXIyZE gTUkJk">Expired</span>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="0f50f3de-4d0f-469c-9cef-9d09301ac488-header"
+                        aria-controls="0f50f3de-4d0f-469c-9cef-9d09301ac488-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_DND.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">DND</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit buy</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">FHSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$12,969.00 CAD</p>
+                            <span class="sc-204449cf-0 sc-2a55aa6f-0 kXIyZE dpRYKb">Cancelled</span>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="6738fb2d-5c17-46d3-99b0-a71141187872-header"
+                        aria-controls="6738fb2d-5c17-46d3-99b0-a71141187872-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_WFG.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">WFG</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit sell</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">TFSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$17,171.00 CAD</p>
+                            <span class="sc-204449cf-0 sc-2a55aa6f-0 kXIyZE dpRYKb">Cancelled</span>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <h2 spacing="mb1,mt5" class="sc-3c9314e7-1 fxDntU sc-2e95151-2 jXYSXm">April 5, 2024</h2>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="6f1f0569-0928-4861-94f8-f05915e23b74-header"
+                        aria-controls="6f1f0569-0928-4861-94f8-f05915e23b74-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_PBL.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">PBL</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit buy</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">FHSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$12,957.50 CAD</p>
+                            <span class="sc-204449cf-0 sc-2a55aa6f-0 kXIyZE gTUkJk">Expired</span>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="7654ee04-ac6c-4e3f-adf7-4c3335b388e6-header"
+                        aria-controls="7654ee04-ac6c-4e3f-adf7-4c3335b388e6-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_WFG.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">WFG</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Limit buy</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">TFSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$17,017.00 CAD</p>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <h2 spacing="mb1,mt5" class="sc-3c9314e7-1 fxDntU sc-2e95151-2 jXYSXm">April 4, 2024</h2>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="882000b3-8d8b-4619-a3fa-b92e3e7f7e3b-header"
+                        aria-controls="882000b3-8d8b-4619-a3fa-b92e3e7f7e3b-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_CNQ.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">CNQ</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Dividend</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">TFSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$42.00 CAD</p>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <h2 spacing="mb1,mt5" class="sc-3c9314e7-1 fxDntU sc-2e95151-2 jXYSXm">April 3, 2024</h2>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="68b26988-5702-4b1c-a467-0d2872e8fadd-header"
+                        aria-controls="68b26988-5702-4b1c-a467-0d2872e8fadd-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_NVEI.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">NVEI</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Dividend</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">TFSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$46.47 CAD</p>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+        <div class="sc-6e9df86d-0 fPEMHJ">
+            <div class="sc-6e9df86d-0 hqPuER">
+                <button type="button" role="button" spacing="ph2,pv1" id="30cfad3d-9162-4069-9f00-2304236295a4-header"
+                        aria-controls="30cfad3d-9162-4069-9f00-2304236295a4-region" aria-expanded="false"
+                        class="sc-cda882d7-0 bGUMvc sc-583a498e-0 UBiPw">
+                    <div class="sc-6e9df86d-0 bpEkGs">
+                        <div class="sc-6e9df86d-0 bTrgQn">
+                            <div class="sc-6e9df86d-0 sc-a19292fb-0 itAfij gHOoCL">
+                                <img data-testid="security-logo-image"
+                                     src="https://ws-company-logo-cdn-bucket-prod.s3.amazonaws.com/logos_with_market/XTSE_NVEI.png"
+                                     class="sc-a19292fb-1 lbQlgo">
+                            </div>
+                            <div class="sc-6e9df86d-0 bqAVAA">
+                                <p spacing="mb0" class="sc-2e95151-0 eyUkKu">NVEI</p>
+                                <div class="sc-6e9df86d-0 hqLavi">
+                                    <p spacing="mb0" class="sc-2e95151-0 yYvqz">Dividend</p>
+                                    <p spacing="mb0" class="sc-2e95151-0 kvTTGG">FHSA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sc-6e9df86d-0 bGIasX">
+                            <p spacing="mb0" class="sc-2e95151-0 krkzdy">$47.56 CAD</p>
+                        </div>
+                    </div>
+                    <div class="sc-6e9df86d-0 sc-b2360699-0 lbZgqn iDYqKG sc-fe810d10-0 fyltoG" color="#32302F">
+                        <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+                             color="#32302F" aria-hidden="true" style="forced-color-adjust: auto;">
+                            <path d="m11.7 8.7-6 6c-.2.2-.4.3-.7.3-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L9.6 8 4.3 2.7c-.4-.4-.4-1 0-1.4.4-.4 1-.4 1.4 0l6 6c.4.4.4 1 0 1.4Z"
+                                  fill="#32302F"></path>
+                        </svg>
+                    </div>
+                </button>
+            </div>
+        </div>
+        <div class="sc-6e9df86d-0 sc-61bc5e5c-0 itAfij ewYUWJ"></div>
+    </div>
+    <div class="sc-6e9df86d-0 jZcVym">
+        <button type="button" role="button" spacing="mb3,mt4" class="sc-cda882d7-0 kOEksv sc-8a00c3fc-0 docIoF">Load
+            more
+        </button>
+    </div>
+</div>
