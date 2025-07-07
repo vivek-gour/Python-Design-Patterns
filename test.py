@@ -188,9 +188,4 @@ Vivek
 #             'year': ''}
 # new_data['delivery_partner'] = 'vivek'
 
-# print(range('A', 'D'))
-
-
-def addition(x, y):
-    return x + y
-
+print(range('A', 'D'))
