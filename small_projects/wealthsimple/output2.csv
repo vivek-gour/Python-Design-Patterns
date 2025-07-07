@@ -1,0 +1,41 @@
+Stock_Name,Trade_Type,Account,Date,Result_Value
+CSU,Limit Buy,FHSA,"February 7, 2024",Cancelled
+CSU,Limit Buy,RRSP,"February 7, 2024","$14,678.64"
+TFII,Limit Sell,TFSA,"February 6, 2024","$3,111.00"
+SHOP,Limit Sell,RRSP,"February 6, 2024","$17,205.00"
+SHOP,Limit Sell,FHSA,"February 6, 2024","$10,101.00"
+SHOP,Limit Sell,RRSP,"February 6, 2024",Expired
+SHOP,Limit Sell,FHSA,"February 6, 2024",Cancelled
+SHOP,Limit Sell,RRSP,"February 6, 2024",Cancelled
+SHOP,Limit Buy,RRSP,"February 6, 2024","$16,848.50"
+SHOP,Limit Buy,FHSA,"February 6, 2024","$9,891.70"
+SHOP,Limit Sell,FHSA,"February 6, 2024","$9,859.50"
+SHOP,Limit Sell,FHSA,"February 6, 2024",Cancelled
+SHOP,Limit Buy,FHSA,"February 6, 2024","$9,799.20"
+NVEI,Limit Sell,RRSP,"February 5, 2024","$16,860.90"
+NVEI,Limit Sell,FHSA,"February 5, 2024","$6,510.00"
+NVEI,Limit Buy,FHSA,"February 2, 2024","$6,465.00"
+NVEI,Limit Buy,RRSP,"February 2, 2024","$16,746.94"
+CEU,Limit Sell,TFSA,"February 2, 2024",Expired
+SHOP,Limit Sell,TFSA,"February 2, 2024",Expired
+SHOP,Limit Sell,FHSA,"February 2, 2024","$9,790.00"
+SHOP,Limit Sell,RRSP,"February 2, 2024","$16,720.00"
+SHOP,Limit Sell,RRSP,"February 2, 2024",Cancelled
+SHOP,Limit Buy,RRSP,"February 1, 2024",$101.99
+SHOP,Limit Buy,FHSA,"January 31, 2024","$9,612.00"
+SHOP,Limit Buy,RRSP,"January 31, 2024","$16,308.00"
+TFII,Limit Buy,FHSA,"January 31, 2024",Cancelled
+TFII,Limit Buy,RRSP,"January 31, 2024",Cancelled
+NVEI,Limit Buy,RRSP,"January 31, 2024",Cancelled
+NVEI,Limit Buy,FHSA,"January 31, 2024",Cancelled
+TFII,Limit Buy,TFSA,"January 31, 2024","$3,043.00"
+NVEI,Limit Buy,TFSA,"January 31, 2024",Cancelled
+TD,Dividend,RRSP,"Jan 31, 2024",$45.90
+BNS,Dividend,RRSP,"Jan 29, 2024",$64.66
+CM,Dividend,RRSP,"Jan 29, 2024",$54.00
+NVEI,Limit Buy,RRSP,"January 23, 2024",Expired
+NVEI,Limit Buy,FHSA,"January 23, 2024",Expired
+NVEI,Limit Sell,RRSP,"January 23, 2024","$16,269.00"
+NVEI,Limit Sell,FHSA,"January 23, 2024","$9,603.00"
+SU,Limit Buy,TFSA,"January 22, 2024","$3,150.00"
+SU,Limit Buy,TFSA,"January 19, 2024",Expired

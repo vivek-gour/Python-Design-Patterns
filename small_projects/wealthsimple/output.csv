@@ -1,0 +1,458 @@
+Stock_Name,Trade_Type,Account,Date,Result_Value
+NVEI,Limit Buy,RRSP,"January 23, 2024",Expired
+NVEI,Limit Buy,FHSA,"January 23, 2024",Expired
+NVEI,Limit Sell,RRSP,"January 23, 2024","$16,269.00"
+NVEI,Limit Sell,FHSA,"January 23, 2024","$9,603.00"
+SU,Limit Buy,TFSA,"January 22, 2024","$3,150.00"
+SU,Limit Buy,TFSA,"January 19, 2024",Expired
+MG,Limit Buy,TFSA,"January 17, 2024",Expired
+NVEI,Limit Buy,FHSA,"January 17, 2024","$8,584.50"
+NVEI,Limit Buy,RRSP,"January 17, 2024","$14,543.50"
+NVEI,Limit Buy,FHSA,"January 16, 2024",Expired
+NVEI,Limit Buy,TFSA,"January 16, 2024",Expired
+NVEI,Limit Buy,RRSP,"January 16, 2024",Expired
+Funds transferred in,,RRSP,"Jan 15, 2024","$1,941.68"
+Funds transferred out,,TFSA,"Jan 15, 2024","-$1,941.68"
+MG,Limit Buy,FHSA,"January 15, 2024",Expired
+MG,Limit Buy,RRSP,"January 15, 2024",Expired
+PZA,Dividend,TFSA,"Jan 15, 2024",$11.63
+CEU,Dividend,TFSA,"Jan 15, 2024",$27.50
+NVEI,Limit Sell,RRSP,"January 12, 2024","$12,606.00"
+MG,Limit Buy,FHSA,"January 11, 2024",Expired
+NVEI,Limit Buy,RRSP,"January 11, 2024","$12,415.00"
+MG,Limit Buy,RRSP,"January 8, 2024",Cancelled
+CVE,Limit Buy,TFSA,"January 5, 2024","$1,010.50"
+SU,Limit Buy,TFSA,"January 5, 2024",Cancelled
+Deposit,,TFSA,"Jan 5, 2024","$8,941.68"
+NVEI,Limit Buy,RRSP,"January 5, 2024",Expired
+CNQ,Dividend,TFSA,"Jan 5, 2024",$40.00
+CNQ,Limit Sell,RRSP,"January 2, 2024","$12,379.80"
+CNQ,Limit Sell,FHSA,"January 2, 2024","$8,599.50"
+CNQ,Limit Sell,RRSP,"January 2, 2024",Cancelled
+CNQ,Limit Sell,FHSA,"January 2, 2024",Cancelled
+CNQ,Limit Sell,RRSP,"January 2, 2024",Cancelled
+CNQ,Limit Sell,FHSA,"January 2, 2024",Cancelled
+T,Dividend,TFSA,"Jan 2, 2024",$87.26
+CVE,Dividend,TFSA,"Dec 29, 2023",$14.42
+PPL,Dividend,TFSA,"Dec 29, 2023",$33.38
+CVE,Dividend,RRSP,"Dec 29, 2023",$2.94
+CNQ,Limit Buy,FHSA,"December 28, 2023","$8,575.00"
+CNQ,Limit Buy,RRSP,"December 28, 2023","$12,337.50"
+CNQ,Limit Buy,RRSP,"December 27, 2023",Cancelled
+CNQ,Limit Buy,FHSA,"December 27, 2023",Cancelled
+CNQ,Limit Sell,RRSP,"December 22, 2023","$12,383.80"
+CNQ,Limit Sell,FHSA,"December 22, 2023","$8,573.40"
+CNQ,Limit Sell,FHSA,"December 21, 2023",Cancelled
+CNQ,Limit Sell,RRSP,"December 21, 2023",Cancelled
+CNQ,Limit Buy,FHSA,"December 20, 2023","$8,563.50"
+CNQ,Limit Buy,RRSP,"December 20, 2023","$12,369.50"
+CNQ,Limit Buy,RRSP,"December 20, 2023",Cancelled
+CNQ,Limit Buy,RRSP,"December 19, 2023",Cancelled
+CNQ,Limit Buy,FHSA,"December 19, 2023",Cancelled
+CNQ,Limit Sell,RRSP,"December 18, 2023","$12,312.00"
+CNQ,Limit Sell,FHSA,"December 18, 2023","$8,550.00"
+CNQ,Limit Buy,RRSP,"December 15, 2023","$12,024.00"
+CNQ,Limit Buy,RRSP,"December 15, 2023",Cancelled
+CNQ,Limit Buy,FHSA,"December 15, 2023","$8,350.00"
+PZA,Dividend,TFSA,"Dec 15, 2023",$11.63
+CNQ,Limit Sell,FHSA,"December 13, 2023","$8,316.00"
+CNQ,Limit Sell,RRSP,"December 13, 2023","$12,012.00"
+CNQ,Limit Sell,FHSA,"December 12, 2023",Cancelled
+CNQ,Limit Sell,RRSP,"December 12, 2023",Cancelled
+CNQ,Limit Buy,RRSP,"December 12, 2023","$11,847.55"
+CNQ,Limit Buy,FHSA,"December 12, 2023","$8,217.00"
+CNQ,Limit Buy,FHSA,"December 11, 2023",Cancelled
+CNQ,Limit Buy,FHSA,"December 11, 2023",Cancelled
+SHOP,Limit Sell,RRSP,"December 11, 2023","$11,840.50"
+SHOP,Limit Sell,RRSP,"December 8, 2023",Expired
+CNQ,Limit Buy,FHSA,"December 8, 2023",Cancelled
+CNQ,Limit Sell,FHSA,"December 8, 2023","$8,196.50"
+SHOP,Limit Sell,RRSP,"December 8, 2023",Cancelled
+CNQ,Limit Buy,FHSA,"December 8, 2023","$8,099.50"
+SHOP,Limit Sell,RRSP,"December 8, 2023",Cancelled
+SHOP,Limit Sell,RRSP,"December 7, 2023",Expired
+SHOP,Limit Buy,FHSA,"December 7, 2023",Cancelled
+SHOP,Limit Sell,FHSA,"December 6, 2023","$8,175.50"
+SHOP,Limit Sell,RRSP,"December 6, 2023",Cancelled
+SHOP,Limit Buy,RRSP,"December 6, 2023","$1,862.00"
+SHOP,Limit Buy,FHSA,"December 6, 2023","$8,134.00"
+SHOP,Limit Sell,RRSP,"December 6, 2023",Cancelled
+SHOP,Limit Buy,FHSA,"December 6, 2023",Cancelled
+SHOP,Limit Buy,RRSP,"December 6, 2023","$9,900.00"
+SHOP,Limit Buy,RRSP,"December 5, 2023",Cancelled
+RY,Limit Buy,FHSA,"December 5, 2023",Cancelled
+SHOP,Limit Sell,FHSA,"November 29, 2023","$8,048.00"
+SHOP,Limit Buy,FHSA,"November 29, 2023","$8,040.00"
+SHOP,Limit Sell,RRSP,"November 29, 2023","$11,613.70"
+SHOP,Limit Sell,RRSP,"November 28, 2023",Cancelled
+SHOP,Limit Buy,RRSP,"November 28, 2023","$11,477.00"
+SHOP,Limit Sell,FHSA,"November 28, 2023","$8,042.40"
+SHOP,Limit Sell,FHSA,"November 28, 2023",Cancelled
+SHOP,Limit Buy,FHSA,"November 28, 2023","$8,040.00"
+SHOP,Limit Buy,FHSA,"November 28, 2023",Cancelled
+SHOP,Limit Buy,RRSP,"November 28, 2023",Cancelled
+SHOP,Limit Buy,FHSA,"November 28, 2023",Cancelled
+BMO,Dividend,RRSP,"Nov 28, 2023",$36.75
+CNR,Limit Buy,FHSA,"November 24, 2023",Expired
+CNR,Limit Buy,RRSP,"November 24, 2023",Expired
+CEU,Limit Buy,TFSA,"November 24, 2023",Expired
+RY,Dividend,RRSP,"Nov 24, 2023",$54.00
+CEU,Limit Buy,TFSA,"November 23, 2023",Expired
+DOL,Limit Sell,FHSA,"November 22, 2023","$8,035.20"
+DOL,Limit Sell,RRSP,"November 22, 2023","$11,606.40"
+DOL,Limit Sell,RRSP,"November 21, 2023",Expired
+DOL,Limit Sell,FHSA,"November 21, 2023",Expired
+DOL,Limit Buy,FHSA,"November 21, 2023","$8,019.00"
+DOL,Limit Buy,RRSP,"November 21, 2023","$11,583.00"
+PZA,Dividend,TFSA,"Nov 15, 2023",$11.25
+INFY,Dividend,TFSA,"Nov 8, 2023",$1.26
+TD,Dividend,RRSP,"Oct 31, 2023",$43.20
+BNS,Dividend,RRSP,"Oct 27, 2023",$64.66
+CM,Dividend,RRSP,"Oct 27, 2023",$52.20
+SHOP,Limit Sell,FHSA,"October 24, 2023","$8,061.14"
+SHOP,Limit Sell,RRSP,"October 24, 2023","$11,368.61"
+SHOP,Limit Sell,FHSA,"October 20, 2023",Cancelled
+SHOP,Limit Sell,RRSP,"October 20, 2023",Cancelled
+SHOP,Limit Sell,FHSA,"October 20, 2023",Cancelled
+SHOP,Limit Sell,RRSP,"October 20, 2023",Cancelled
+CEU,Market Buy,TFSA,"October 19, 2023",$186.50
+SHOP,Limit Buy,RRSP,"October 19, 2023","$11,218.00"
+SHOP,Limit Buy,FHSA,"October 19, 2023","$7,952.00"
+PZA,Dividend,TFSA,"Oct 13, 2023",$11.25
+CEU,Dividend,TFSA,"Oct 13, 2023",$26.25
+Deposit,,FHSA,"Oct 5, 2023","$8,000.00"
+Deposit,,RRSP,"Oct 5, 2023","$10,979.00"
+CNQ,Dividend,TFSA,"Oct 5, 2023",$36.00
+T,Dividend,TFSA,"Oct 3, 2023",$84.36
+PPL,Dividend,TFSA,"Sep 29, 2023",$33.38
+CVE,Dividend,TFSA,"Sep 29, 2023",$14.42
+CVE,Dividend,RRSP,"Sep 29, 2023",$2.94
+PZA,Dividend,TFSA,"Sep 15, 2023",$11.25
+BMO,Dividend,RRSP,"Aug 28, 2023",$36.75
+RY,Dividend,RRSP,"Aug 24, 2023",$54.00
+PZA,Dividend,TFSA,"Aug 15, 2023",$11.25
+TD,Dividend,RRSP,"Jul 31, 2023",$24.00
+CM,Dividend,RRSP,"Jul 28, 2023",$52.20
+BNS,Dividend,RRSP,"Jul 27, 2023",$64.66
+TD,Limit Buy,RRSP,"July 21, 2023","$1,716.00"
+CVE,Limit Buy,TFSA,"July 17, 2023",$292.50
+CVE,Limit Buy,TFSA,"July 17, 2023",Cancelled
+CVE,Market Buy,RRSP,"July 17, 2023",$292.76
+PZA,Dividend,TFSA,"Jul 14, 2023",$11.25
+CEU,Dividend,TFSA,"Jul 14, 2023",$26.25
+INFY,Dividend,TFSA,"Jul 7, 2023",$1.19
+CNQ,Dividend,TFSA,"Jul 5, 2023",$36.00
+T,Dividend,TFSA,"Jul 4, 2023",$84.36
+PPL,Dividend,TFSA,"Jun 30, 2023",$33.38
+CVE,Dividend,TFSA,"Jun 30, 2023",$12.60
+CVE,Dividend,RRSP,"Jun 30, 2023",$1.12
+PZA,Dividend,TFSA,"Jun 15, 2023",$10.88
+BMO,Dividend,RRSP,"May 26, 2023",$22.88
+RY,Dividend,RRSP,"May 24, 2023",$13.20
+PZA,Dividend,TFSA,"May 15, 2023",$10.88
+CVE,Market Buy,RRSP,"May 12, 2023",$171.20
+BMO,Limit Buy,RRSP,"May 9, 2023",$585.00
+BMO,Limit Buy,RRSP,"May 9, 2023",$468.00
+TD,Limit Buy,RRSP,"May 9, 2023",Cancelled
+RY,Limit Buy,RRSP,"May 9, 2023","$3,354.00"
+RY,Limit Buy,RRSP,"May 4, 2023",Cancelled
+Deposit,,RRSP,"May 4, 2023","$6,500.00"
+RY,Market Buy,RRSP,"May 2, 2023",$525.12
+Deposit,,RRSP,"May 2, 2023",$500.00
+TD,Dividend,RRSP,"May 1, 2023",$24.00
+CM,Dividend,RRSP,"Apr 28, 2023",$51.00
+T,Market Buy,TFSA,"April 26, 2023",$717.50
+PZA,Market Buy,TFSA,"April 26, 2023",$689.00
+PPL,Market Buy,TFSA,"April 26, 2023",$883.20
+BNS,Dividend,RRSP,"Apr 26, 2023",$62.83
+PZA,Dividend,TFSA,"Apr 14, 2023",$7.25
+CEU,Dividend,TFSA,"Apr 14, 2023",$21.00
+ATH,Limit Sell,TFSA,"April 6, 2023","$2,194.50"
+CNQ,Dividend,TFSA,"Apr 5, 2023",$36.00
+ATH,Limit Sell,TFSA,"April 3, 2023",Cancelled
+T,Dividend,TFSA,"Apr 3, 2023",$72.68
+PPL,Dividend,TFSA,"Mar 31, 2023",$19.58
+CVE,Dividend,TFSA,"Mar 31, 2023",$9.45
+PZA,Dividend,TFSA,"Mar 15, 2023",$7.00
+BNS,Limit Buy,RRSP,"March 3, 2023",$69.90
+BMO,Limit Buy,RRSP,"March 3, 2023","$2,088.00"
+CM,Limit Buy,RRSP,"March 3, 2023",$63.00
+BNS,Limit Buy,RRSP,"March 3, 2023","$4,194.00"
+CM,Limit Buy,RRSP,"March 3, 2023",$252.00
+CM,Limit Buy,RRSP,"March 3, 2023","$3,465.00"
+BMO,Limit Buy,RRSP,"March 3, 2023",Cancelled
+BNS,Market Buy,RRSP,"March 3, 2023",Cancelled
+TD,Limit Buy,RRSP,"March 3, 2023","$2,225.00"
+RY,Limit Buy,RRSP,"March 3, 2023","$1,360.00"
+Deposit,,RRSP,"Feb 28, 2023","$8,718.00"
+Deposit,,RRSP,"Feb 27, 2023","$5,000.00"
+T,Limit Buy,TFSA,"February 21, 2023","$1,674.00"
+PZA,Dividend,TFSA,"Feb 15, 2023",$7.00
+Deposit,,TFSA,"Jan 13, 2023","$1,500.00"
+PZA,Dividend,TFSA,"Jan 13, 2023",$7.00
+CEU,Dividend,TFSA,"Jan 13, 2023",$21.00
+CNQ,Dividend,TFSA,"Jan 5, 2023",$34.00
+T,Dividend,TFSA,"Jan 3, 2023",$50.91
+PPL,Dividend,TFSA,"Dec 30, 2022",$6.53
+CVE,Dividend,TFSA,"Dec 30, 2022",$9.45
+PZA,Dividend,TFSA,"Dec 15, 2022",$7.00
+PPL,Dividend,TFSA,"Dec 15, 2022",$6.53
+CVE,Dividend,TFSA,"Dec 2, 2022",$10.26
+PPL,Dividend,TFSA,"Nov 15, 2022",$6.53
+PZA,Dividend,TFSA,"Nov 15, 2022",$6.75
+INFY,Dividend,TFSA,"Nov 14, 2022",$1.13
+T,Limit Buy,TFSA,"October 27, 2022",$113.88
+CEU,Dividend,TFSA,"Oct 14, 2022",$16.80
+PPL,Dividend,TFSA,"Oct 14, 2022",$6.53
+PZA,Dividend,TFSA,"Oct 14, 2022",$6.75
+CNQ,Dividend,TFSA,"Oct 5, 2022",$18.75
+T,Dividend,TFSA,"Oct 3, 2022",$47.74
+CVE,Dividend,TFSA,"Sep 29, 2022",$5.46
+CNQ,Limit Buy,TFSA,"September 20, 2022","$1,066.05"
+Deposit,,TFSA,"Sep 20, 2022",$50.00
+CVE,Limit Buy,TFSA,"September 20, 2022",$932.90
+CEU,Limit Buy,TFSA,"September 20, 2022","$1,075.50"
+Deposit,,TFSA,"Sep 20, 2022","$3,000.00"
+PPL,Dividend,TFSA,"Sep 15, 2022",$6.30
+PZA,Dividend,TFSA,"Sep 15, 2022",$6.75
+CEU,Market Buy,TFSA,"September 13, 2022",$121.50
+CNQ,Limit Buy,TFSA,"August 25, 2022","$1,858.00"
+Deposit,,TFSA,"Aug 25, 2022",$70.00
+PPL,Dividend,TFSA,"Aug 15, 2022",$6.30
+PZA,Dividend,TFSA,"Aug 15, 2022",$6.75
+CVE,Limit Buy,TFSA,"August 8, 2022",Cancelled
+PPL,Dividend,TFSA,"Jul 15, 2022",$6.30
+PZA,Dividend,TFSA,"Jul 15, 2022",$6.75
+CEU,Dividend,TFSA,"Jul 15, 2022",$8.80
+T,Dividend,TFSA,"Jul 4, 2022",$13.88
+CVE,Dividend,TFSA,"Jun 30, 2022",$5.46
+INFY,Dividend,TFSA,"Jun 30, 2022",$1.10
+BBD.B,Limit Sell,TFSA,"June 21, 2022","$1,856.00"
+T,Limit Sell,TFSA,"June 21, 2022",Cancelled
+ATH,Limit Sell,TFSA,"June 21, 2022",Cancelled
+PPL,Dividend,TFSA,"Jun 15, 2022",$6.30
+PZA,Dividend,TFSA,"Jun 15, 2022",$6.50
+ATH,Limit Buy,TFSA,"June 14, 2022","$2,134.65"
+T,Market Buy,TFSA,"June 14, 2022","$2,984.50"
+BBD.B,Limit Sell,TFSA,"June 10, 2022",Cancelled
+BBD.B,Limit Buy,TFSA,"June 10, 2022","$1,590.00"
+ATH,Limit Sell,TFSA,"June 7, 2022","$6,710.81"
+ATH,Limit Sell,TFSA,"June 7, 2022",Cancelled
+ATH,Limit Buy,TFSA,"June 7, 2022","$6,593.16"
+ATH,Market Sell,TFSA,"June 7, 2022","$6,513.00"
+ATH,Limit Sell,TFSA,"June 7, 2022",Cancelled
+ATH,Limit Buy,TFSA,"June 6, 2022","$6,103.50"
+CVE,Limit Sell,TFSA,"May 27, 2022",Cancelled
+SHOP,Limit Buy,TFSA,"May 24, 2022",Cancelled
+Deposit,,TFSA,"May 24, 2022",$610.00
+Deposit,,Crypto,"May 20, 2022",Cancelled
+WCP,Limit Buy,TFSA,"May 20, 2022",Cancelled
+Deposit,,TFSA,"May 20, 2022","$1,500.00"
+WCP,Limit Buy,TFSA,"May 19, 2022",Cancelled
+BBD.B,Limit Buy,TFSA,"May 18, 2022",Cancelled
+WCP,Limit Sell,TFSA,"May 16, 2022","$4,066.21"
+WCP,Limit Buy,TFSA,"May 16, 2022","$4,008.96"
+WCP,Limit Sell,TFSA,"May 16, 2022","$4,010.01"
+WCP,Limit Sell,TFSA,"May 16, 2022",Cancelled
+WCP,Limit Buy,TFSA,"May 16, 2022","$4,002.35"
+Deposit,,TFSA,"May 16, 2022","$1,500.00"
+CNQ,Limit Sell,TFSA,"May 16, 2022","$2,430.00"
+CNQ,Limit Sell,TFSA,"May 16, 2022",Cancelled
+WCP,Dividend,TFSA,"May 16, 2022",$6.39
+PPL,Dividend,TFSA,"May 13, 2022",$6.30
+PZA,Dividend,TFSA,"May 13, 2022",$6.50
+CNQ,Limit Sell,TFSA,"May 11, 2022",Cancelled
+CNQ,Limit Buy,TFSA,"May 11, 2022","$2,370.00"
+WCP,Limit Sell,TFSA,"May 6, 2022","$2,304.66"
+WCP,Limit Sell,TFSA,"May 6, 2022",Cancelled
+WCP,Limit Sell,TFSA,"April 29, 2022",Cancelled
+WCP,Limit Sell,TFSA,"April 27, 2022",Cancelled
+WCP,Limit Buy,TFSA,"April 25, 2022",$997.00
+Deposit,,TFSA,"Apr 25, 2022","$1,000.00"
+WCP,Limit Sell,TFSA,"April 19, 2022",Cancelled
+WCP,Limit Buy,TFSA,"April 19, 2022","$1,243.63"
+AQN,Limit Sell,TFSA,"April 19, 2022","$1,242.99"
+AQN,Limit Sell,TFSA,"April 19, 2022",Cancelled
+AQN,Limit Sell,TFSA,"April 18, 2022",Cancelled
+AQN,Limit Sell,TFSA,"April 18, 2022",Cancelled
+AQN,Limit Buy,TFSA,"April 18, 2022","$1,233.54"
+CEU,Dividend,TFSA,"Apr 18, 2022",$0.37
+AC,Limit Buy,TFSA,"April 14, 2022",Cancelled
+PZA,Dividend,TFSA,"Apr 14, 2022",$6.50
+PPL,Dividend,TFSA,"Apr 14, 2022",$6.30
+AC,Limit Sell,TFSA,"April 12, 2022","$1,222.02"
+AC,Limit Sell,TFSA,"April 12, 2022",Cancelled
+AC,Limit Buy,TFSA,"April 12, 2022","$1,198.80"
+SU,Limit Buy,TFSA,"April 11, 2022",Cancelled
+CEU,Limit Buy,TFSA,"April 11, 2022",$320.92
+Deposit,,TFSA,"Apr 8, 2022","$1,500.00"
+BKCC,Dividend,TFSA,"Apr 7, 2022",$0.25
+NWX,Limit Sell,TFSA,"April 4, 2022",$119.97
+CEU,Market Buy,TFSA,"April 1, 2022",$2.36
+T,Dividend,TFSA,"Apr 1, 2022",$13.42
+CEU,Limit Buy,TFSA,"March 31, 2022",$298.62
+Deposit,,TFSA,"Mar 31, 2022",$300.00
+CVE,Dividend,TFSA,"Mar 31, 2022",$1.82
+CEU,Limit Buy,TFSA,"March 29, 2022",$611.46
+Deposit,,TFSA,"Mar 29, 2022",$600.00
+NWX,Limit Sell,TFSA,"March 28, 2022",Cancelled
+BKCC,Limit Sell,TFSA,"March 28, 2022",$10.35
+CEU,Limit Buy,TFSA,"March 24, 2022",$20.00
+NWX,Limit Buy,TFSA,"March 16, 2022",$12.74
+PPL,Dividend,TFSA,"Mar 15, 2022",$6.30
+PZA,Dividend,TFSA,"Mar 15, 2022",$6.50
+BBD.B,Market Buy,TFSA,"March 11, 2022",$1.36
+NWX,Dividend,TFSA,"Mar 10, 2022",$1.60
+NWX,Limit Buy,TFSA,"March 4, 2022",$13.80
+CVE,Limit Buy,TFSA,"March 3, 2022",$39.20
+NWX,Limit Buy,TFSA,"March 3, 2022",$10.12
+CVE,Limit Buy,TFSA,"March 3, 2022",$788.00
+NWX,Limit Buy,TFSA,"March 2, 2022",Cancelled
+BBD.B,Limit Buy,TFSA,"March 2, 2022",Cancelled
+CVE,Limit Buy,TFSA,"March 2, 2022",Cancelled
+Deposit,,TFSA,"Mar 2, 2022",$850.00
+NWX,Limit Buy,TFSA,"March 1, 2022",Cancelled
+NWX,Limit Buy,TFSA,"February 28, 2022",$6.90
+T,Limit Buy,TFSA,"February 28, 2022",$642.00
+Deposit,,TFSA,"Feb 28, 2022",$650.00
+NWX,Limit Buy,TFSA,"February 22, 2022",$1.41
+NWX,Limit Buy,TFSA,"February 21, 2022",Cancelled
+BBD.B,Limit Buy,TFSA,"February 17, 2022",$13.44
+BBD.B,Market Buy,TFSA,"February 17, 2022",$1.69
+NWX,Limit Buy,TFSA,"February 17, 2022",$47.00
+AC,Limit Sell,TFSA,"February 15, 2022",$51.00
+PZA,Dividend,TFSA,"Feb 15, 2022",$6.00
+PPL,Dividend,TFSA,"Feb 15, 2022",$6.30
+CEU,Limit Buy,TFSA,"January 20, 2022",$35.85
+CVE,Limit Buy,TFSA,"January 19, 2022",$183.70
+CEU,Limit Buy,TFSA,"January 18, 2022",Cancelled
+SHOP,Market Buy,TFSA,"January 18, 2022","$1,300.28"
+Deposit,,TFSA,"Jan 18, 2022","$1,500.00"
+PPL,Dividend,TFSA,"Jan 14, 2022",$6.30
+PZA,Dividend,TFSA,"Jan 14, 2022",$6.00
+BKCC,Dividend,TFSA,"Jan 6, 2022",$0.26
+T,Dividend,TFSA,"Jan 4, 2022",$6.88
+NWX,Market Buy,TFSA,"December 17, 2021",$9.90
+PZA,Dividend,TFSA,"Dec 15, 2021",$6.00
+PPL,Dividend,TFSA,"Dec 15, 2021",$4.20
+NWX,Dividend,TFSA,"Dec 9, 2021",$0.20
+NWX,Limit Buy,TFSA,"November 30, 2021",$1.35
+NWX,Limit Buy,TFSA,"November 26, 2021",$11.50
+BBD.B,Market Buy,TFSA,"November 26, 2021",$29.58
+PZA,Market Buy,TFSA,"November 26, 2021",$70.98
+PPL,Limit Buy,TFSA,"November 26, 2021",$387.00
+NWX,Limit Buy,TFSA,"November 25, 2021",Cancelled
+PPL,Limit Buy,TFSA,"November 25, 2021",Cancelled
+Deposit,,TFSA,"Nov 25, 2021",$500.00
+BBD.B,Market Buy,TFSA,"November 16, 2021",$5.37
+PZA,Dividend,TFSA,"Nov 15, 2021",$0.60
+PPL,Dividend,TFSA,"Nov 15, 2021",$4.20
+INFY,Dividend,TFSA,"Nov 12, 2021",$1.07
+NWX,Limit Buy,TFSA,"November 9, 2021",$4.90
+SHIB,Market Buy,Crypto,"November 9, 2021",$290.00
+NWX,Limit Buy,TFSA,"November 8, 2021",Cancelled
+PZA,Market Buy,TFSA,"November 8, 2021",$35.67
+PZA,Limit Buy,TFSA,"November 8, 2021",$948.00
+PZA,Market Buy,TFSA,"November 8, 2021",$11.91
+SHIB,Market Buy,Crypto,"November 5, 2021",$470.75
+PZA,Limit Buy,TFSA,"November 5, 2021",Cancelled
+Deposit,,TFSA,"Nov 5, 2021","$1,000.00"
+T,Limit Sell,Non-registered,"November 5, 2021",$290.00
+BBD.B,Limit Buy,TFSA,"October 29, 2021",$100.00
+BBD.B,Limit Buy,TFSA,"October 28, 2021",Cancelled
+Deposit,,TFSA,"Oct 28, 2021",$100.00
+BBD.B,Limit Buy,TFSA,"October 28, 2021",$2.08
+BBD.B,Limit Buy,TFSA,"October 28, 2021",$54.08
+DOGE,Limit Sell,Crypto,"October 28, 2021",$470.75
+BBD.B,Market Buy,TFSA,"October 27, 2021",$6.33
+PZA,Limit Buy,TFSA,"October 27, 2021",Cancelled
+DOGE,Limit Sell,Crypto,"October 24, 2021",Expired
+ETH,Market Buy,Crypto,"October 22, 2021",$7.96
+PPL,Market Buy,TFSA,"October 18, 2021",$842.00
+Deposit,,TFSA,"Oct 18, 2021",$900.00
+BKCC,Market Buy,TFSA,"October 12, 2021",$10.47
+MEDV,Market Sell,TFSA,"October 12, 2021",$4.44
+MYCO,Market Sell,TFSA,"October 12, 2021",$3.40
+T,Limit Buy,TFSA,"October 12, 2021",$137.25
+T,Limit Buy,TFSA,"October 8, 2021",$55.00
+INFY,Limit Buy,TFSA,"October 8, 2021",Cancelled
+Deposit,,TFSA,"Oct 8, 2021",$200.00
+MEDV,Limit Sell,TFSA,"October 7, 2021",Cancelled
+MYCO,Limit Sell,TFSA,"October 7, 2021",Cancelled
+T,Limit Buy,TFSA,"October 4, 2021",$110.00
+T,Limit Buy,TFSA,"October 4, 2021",Expired
+PZA,Limit Buy,TFSA,"October 1, 2021",Cancelled
+T,Dividend,Non-registered,"Oct 1, 2021",$3.16
+PZA,Limit Buy,TFSA,"September 30, 2021",$112.00
+T,Limit Buy,TFSA,"September 29, 2021",$278.00
+Deposit,,TFSA,"Sep 29, 2021",$500.00
+DOGE,Limit Buy,Crypto,"August 26, 2021",$250.00
+Deposit,,Crypto,"Aug 26, 2021",$250.00
+DOGE,Limit Buy,Crypto,"August 18, 2021",$50.00
+Deposit,,Crypto,"Aug 18, 2021",$50.00
+Withdrawal,,Non-registered,"Aug 18, 2021",$30.00
+MYCO,Limit Sell,TFSA,"August 17, 2021",Cancelled
+T,Market Buy,Non-registered,"August 17, 2021",$287.60
+DOGE,Market Buy,Crypto,"August 13, 2021",$50.00
+Deposit,,Crypto,"Aug 13, 2021",$50.00
+T,Limit Buy,Non-registered,"August 13, 2021",Cancelled
+STNG,Limit Sell,Non-registered,"August 12, 2021",$321.75
+STNG,Limit Sell,Non-registered,"August 12, 2021",Cancelled
+MEDV,Market Buy,TFSA,"August 12, 2021",$0.13
+INFY,Limit Buy,TFSA,"August 10, 2021",$58.17
+STNG,Limit Buy,Non-registered,"August 10, 2021",$94.60
+STNG,Limit Buy,Non-registered,"August 5, 2021",Cancelled
+DOGE,Market Buy,Crypto,"August 5, 2021",$50.00
+Deposit,,Crypto,"Aug 5, 2021",$50.00
+STNG,Limit Sell,Non-registered,"August 5, 2021",Cancelled
+STNG,Limit Sell,Non-registered,"August 5, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"August 4, 2021",$220.00
+STNG,Limit Buy,Non-registered,"August 3, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"August 3, 2021",Cancelled
+GE,Limit Buy,TFSA,"July 30, 2021",$16.42
+AMAT,Limit Buy,Non-registered,"July 29, 2021",Expired
+AMZN,Fractional Buy,TFSA,"July 29, 2021",Cancelled
+LXR,Limit Buy,Non-registered,"July 27, 2021",Cancelled
+STNG,Limit Sell,Non-registered,"July 27, 2021",$100.00
+STNG,Limit Sell,Non-registered,"July 27, 2021",$122.50
+STNG,Limit Sell,Non-registered,"July 26, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"July 26, 2021",Cancelled
+STNG,Limit Sell,Non-registered,"July 22, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"July 22, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"July 21, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"July 21, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"July 21, 2021",Cancelled
+STNG,Limit Sell,Non-registered,"July 21, 2021",Cancelled
+STNG,Limit Buy,Non-registered,"July 20, 2021",$213.48
+STNG,Market Buy,Non-registered,"July 20, 2021",Cancelled
+MEDV,Limit Buy,Non-registered,"July 20, 2021",Cancelled
+MYCO,Limit Buy,TFSA,"July 20, 2021",Cancelled
+MEDV,Limit Sell,TFSA,"July 19, 2021",Cancelled
+BBD.B,Limit Sell,TFSA,"July 19, 2021",$26.28
+MYCO,Limit Sell,TFSA,"July 19, 2021",Cancelled
+AC,Limit Sell,TFSA,"July 19, 2021",Cancelled
+BBD.B,Limit Sell,TFSA,"July 19, 2021",Expired
+MEDV,Limit Sell,TFSA,"July 19, 2021",Expired
+MEDV,Market Buy,TFSA,"July 19, 2021",$0.72
+BBD.B,Limit Buy,TFSA,"July 19, 2021",$10.48
+INFY,Market Buy,TFSA,"July 19, 2021",$53.51
+BBD.B,Market Buy,TFSA,"July 19, 2021",$6.60
+GE,Market Buy,TFSA,"July 19, 2021",$15.69
+AC,Market Buy,TFSA,"July 19, 2021",$23.62
+GE,Market Buy,TFSA,"July 19, 2021",Cancelled
+INFY,Market Buy,TFSA,"July 19, 2021",Cancelled
+MEDV,Limit Buy,TFSA,"July 18, 2021",Cancelled
+AC,Limit Buy,TFSA,"July 18, 2021",Cancelled
+INFY,Limit Buy,TFSA,"July 18, 2021",Cancelled
+Deposit,,TFSA,"Jul 16, 2021",$100.00
+MYCO,Market Buy,TFSA,"July 14, 2021",$5.00
+MEDV,Market Buy,TFSA,"July 14, 2021",$7.50
+BBD.B,Market Buy,TFSA,"July 14, 2021",$7.30
+Deposit,,Crypto,"Jul 14, 2021",Cancelled
+INFY,Limit Buy,TFSA,"July 10, 2021",Cancelled
+INFY,Limit Buy,TFSA,"July 8, 2021",Expired
+Deposit,,Non-registered,"Jul 7, 2021",Cancelled
+AC,Market Buy,TFSA,"July 6, 2021",$26.94
+GE,Market Buy,TFSA,"July 6, 2021",$16.22
+INFY,Market Buy,TFSA,"July 6, 2021",$26.40
+Deposit,,TFSA,"Jul 6, 2021",$100.00
